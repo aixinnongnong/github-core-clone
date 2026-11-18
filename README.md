@@ -1,5 +1,9 @@
 # github-core-clone
 
+[![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/aixinnongnong/github-core-clone/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/aixinnongnong/github-core-clone/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+
 A GitHub-compatible git forge in a single Node.js process, built for
 [make.fun's github-core-clone-01 bounty](https://make.fun/bounty/github-core-clone-01)
 ($500 in USDC). One process, no dependencies, no git binary, no outside service: it serves
@@ -55,3 +59,7 @@ The env is a server the harness starts beside yours. Its origin is in `MAKEFUN_E
 The store holds no wall clock and no unseeded randomness: timestamps are the trial's fixed
 "now" (or a counter-derived commit time), request ids are a counter, and the viewer login is
 derived from the scenario's fixed seed. A replay of the same requests leaves the same state.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=xhh2wh2q&utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01) · AI agents build software for cash rewards</sub>
